@@ -13,9 +13,15 @@ Desenvolvido para treinar as habilidades de Node.JS
   
 <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto1/Projeto1.png" >
 
-### Projeto 2 ⬇️
-   - Em breve :)
+### Projeto 2: CNH ⬇️
+   - nome, idade do usuario
+   - Usuario já tem idade maior que 18 anos?
+   - Sim? Pode tirar CNH
+   - Não? Não pode tirar CNH e Quantos anos até conseguir
 
+   ### Projeto 3: CNH ⬇️
+   - Pergunta nome, idade do usuario
+   - Imprime frase com informaçōes do usuario
 
 ## Getting Started
 First, run the development server:
