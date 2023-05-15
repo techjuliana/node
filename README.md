@@ -7,6 +7,7 @@ Desenvolvido para treinar as habilidades de Node.JS
 ### Projeto 1: Conta bancaria  ⬇️
   - Criar conta
   - Depositar valor
+  - Consultar valor
   - Sacar valor
   - Sair
   
