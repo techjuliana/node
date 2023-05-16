@@ -21,7 +21,7 @@ Desenvolvido para treinar as habilidades de Node.JS
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto2/projeto2.png" height="150" width="500">
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto2/projeto.png" height="150" width="500">
 
-   ### Projeto 3: CNH ⬇️
+   ### Projeto 3: Imprimir informaçōes coletadas ⬇️
    - Pergunta nome, idade do usuario
    - Imprime frase com informaçōes do usuario
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto3/projeto3.png" height="150" width="500">
