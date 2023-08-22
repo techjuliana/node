@@ -34,9 +34,9 @@ Desenvolvido para treinar as habilidades de Node.JS
   
    ### Projeto 5: Criação de API ⬇️
    - Dados de postagens, criação de lista de postagens usando express e dados http
-  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/1.png" height="150" width="500">
-  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/2.png" height="150" width="500">
-   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/3.png" height="150" width="500">
+  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/1.png" height="300" width="500">
+  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/2.png" height="200" width="500">
+   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/3.png" height="450" width="500">
  
 ## Getting Started
 First, run the development server:
