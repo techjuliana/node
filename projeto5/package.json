@@ -1,0 +1,15 @@
+{
+  "name": "projeto5",
+  "version": "1.0.0",
+  "description": "node projeto",
+  "main": "index.js",
+  "author": "juliana",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}

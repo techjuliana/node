@@ -26,9 +26,17 @@ Desenvolvido para treinar as habilidades de Node.JS
    - Imprime frase com informaçōes do usuario
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto3/projeto3.png" height="150" width="500">
   
-   ### Projeto 4: Em breve ⬇️
+   ### Projeto 4: Tela de Login ⬇️
+   - nome, e-mail e senha do usuario
+   - fazer Login somente se o usuario tiver conta no backend salva
+  <img src="" height="150" width="500">
+  <img src="" height="150" width="500">
   
-   ### Projeto 5: Em breve ⬇️
+   ### Projeto 5: API ⬇️
+    - Criação de API 
+   - Dados de postagens, criação de lista de postagens usando express e dados http
+  <img src="" height="150" width="500">
+  <img src="" height="150" width="500">
  
 ## Getting Started
 First, run the development server:
