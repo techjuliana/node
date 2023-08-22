@@ -29,8 +29,8 @@ Desenvolvido para treinar as habilidades de Node.JS
    ### Projeto 4: Tela de Login ⬇️
    - nome, e-mail e senha do usuario
    - fazer Login somente se o usuario tiver conta no backend salva
-  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto4/telalogin/images/1.png" height="150" width="500">
-  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto4/telalogin/images/2.png" height="150" width="500">
+  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto4/telalogin/images/1.png" height="250" width="500">
+  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto4/telalogin/images/2.png" height="250" width="500">
   
    ### Projeto 5: Criação de API ⬇️
    - Dados de postagens, criação de lista de postagens usando express e dados http
