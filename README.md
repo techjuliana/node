@@ -37,6 +37,12 @@ Desenvolvido para treinar as habilidades de Node.JS
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/1.png" height="300" width="500">
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/2.png" height="200" width="500">
    <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto5/image/3.png" height="450" width="500">
+
+   ### Projeto 6: Usando MYSQL ⬇️
+   - Dados de usuarios e aprendendo MySQL
+  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto6/images/1.png" height="300" width="500">
+  <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto6/images/2.png" height="320" width="500">
+   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto6/images/3.png" height="340" width="600">
  
 ## Getting Started
 First, run the development server:
