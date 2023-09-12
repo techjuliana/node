@@ -54,9 +54,11 @@ Desenvolvido para treinar as habilidades de Node.JS
    - Cors: compartilhamento de recursos com origens diferentes
    - Vercel para backend
 
-     <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-05%2C%20%C3%A0s%201.46.51%20AM.png" height="300" width="500">
+     <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-05%2C%20%C3%A0s%201.46.51%20AM.png" height="340" width="600">
    <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-11%2C%20%C3%A0s%2012.33.45%20AM.png" height="340" width="600">
    <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-12%2C%20%C3%A0s%2010.11.19%20AM.png" height="340" width="600">
+   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-12%2C%20%C3%A0s%2011.10.53%20AM.png" height="340" width="600">
+    <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-12%2C%20%C3%A0s%2011.12.23%20AM.png" height="340" width="600">
  
 ## Getting Started
 First, run the development server:
