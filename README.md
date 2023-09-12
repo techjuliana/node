@@ -52,7 +52,7 @@ Desenvolvido para treinar as habilidades de Node.JS
    - Md5: criptografia de senha
    - Jwt: representar declarações de forma segura entre duas partes. Tokens são assinados usando  segredo privado ou uma chave publica/privada
    - Cors: compartilhamento de recursos com origens diferentes
-   - Vercel para backend
+   - Vercel para backend link: node-beryl.vercel.app
 
      <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-05%2C%20%C3%A0s%201.46.51%20AM.png" height="340" width="600">
    <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-11%2C%20%C3%A0s%2012.33.45%20AM.png" height="340" width="600">
