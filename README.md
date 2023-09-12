@@ -43,6 +43,20 @@ Desenvolvido para treinar as habilidades de Node.JS
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto6/images/1.png" height="300" width="500">
   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto6/images/2.png" height="320" width="500">
    <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto6/images/3.png" height="340" width="600">
+
+   ### Projeto 7: Usando MongoBD - Criando uma API semelhante ao instagram ⬇️
+   - Postman: para testar a api
+   - Cosmic: cms (sistema de gerenciamento de conteúdo)
+   - MongoDB
+   - MongoDB Compass
+   - Md5: criptografia de senha
+   - Jwt: representar declarações de forma segura entre duas partes. Tokens são assinados usando  segredo privado ou uma chave publica/privada
+   - Cors: compartilhamento de recursos com origens diferentes
+   - Vercel para backend
+
+     <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-05%2C%20%C3%A0s%201.46.51%20AM.png" height="300" width="500">
+   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-11%2C%20%C3%A0s%2012.33.45%20AM.png" height="340" width="600">
+   <img src="https://raw.githubusercontent.com/techjuliana/node/master/projeto7/imagens/Captura%20de%20ecr%C3%A3%202023-09-12%2C%20%C3%A0s%2010.11.19%20AM.png" height="340" width="600">
  
 ## Getting Started
 First, run the development server:
